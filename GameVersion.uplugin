@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GameVersion",
+	"Description": "Utilities for versioning game packages and builds",
+	"Category": "Other",
+	"CreatedBy": "XZCendence",
+	"CreatedByURL": "https://twitter.com/xzcendence",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GameVersion",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "GameVersionEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
